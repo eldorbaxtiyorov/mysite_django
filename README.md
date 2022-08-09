@@ -1,2 +1,2 @@
-# mysite_django_3_by_example
+# mysite_django
 #blog wesite 2
